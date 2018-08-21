@@ -4,6 +4,6 @@ title: Exercise 4 Assigned
 assignment: exercise-4
 categories: exercise
 comments: false
-published: true
+published: false
 ---
 {% include schedule-post-assignment.html %}

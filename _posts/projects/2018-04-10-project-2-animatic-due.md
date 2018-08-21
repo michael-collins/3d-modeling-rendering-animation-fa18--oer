@@ -5,6 +5,6 @@ categories: project
 assignment: project-2
 assignment-part: animatic
 comments: false
-published: true
+published: false
 ---
 {% include schedule-post-assignment-proj.html %}

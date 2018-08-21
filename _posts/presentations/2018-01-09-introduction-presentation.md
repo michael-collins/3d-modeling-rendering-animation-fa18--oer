@@ -6,8 +6,8 @@ theme: black
 transition: slide
 comments: true
 published: true
-excerpt: Introduction to the course. We will discuss the syllabus, Autodesk Maya's interface, and introduce the first assignment.
-course-start-time: 3:35pm
+excerpt: Introduction to the course. We will discuss the syllabus, 3D software interface, and introduce the first assignment.
+course-start-time: 3:30pm
 syllabus-url: https://michael-collins.github.io/3d-modeling-rendering-animation-sp18--oer/syllabus/art314-spring2018.html
 ---
 <section data-markdown>
@@ -21,7 +21,7 @@ Tell us about yourself
 1. Name
 2. Major
 3. Why did you enroll in this class?
-4. Name something cool you did this winter (travel, art, sky diving, anything???)
+4. Name something cool you did this summer (travel, art, sky diving, anything???)
 </section>
 <section data-markdown>
 ##Welcome
@@ -62,7 +62,7 @@ Tell us about yourself
 - Contribute during critiques
 </section>
 <section data-markdown>
-##[Course Website](http://michael-collins.github.io/3d-digital-art-and-design--oer)
+##[Course Website](http://michaelcollins.xyz/3d-modeling-rendering-animation-fa18--oer/)
 
 If you have any recommendations, please post on the site on the dicsussion page, or if it's in reference to a specific exercise, you can post right on the exercise. When you find something useful to the class, post it on the Discussion page!
 
@@ -108,15 +108,14 @@ Autodesk Student Software free! Register: [http://students.autodesk.com](http://
 ##Learning Resources
 
 [Lynda.com](http://www.lynda.com) (For PSU students - [lynda.psu.edu](https://lynda.psu.edu))
-  
-[Pluralsight.com](http://www.pluralsight.com) (Formerly Digital Tutors)
 
 </section>
 <section data-markdown>
 ##Textbooks
 
-Autodesk Maya 2018 Basics Guide _ISBN-10: 1630571121_
+Blender 3D: Large list on Amazon: [https://www.amazon.com/s/ref=nb_sb_ss_i_2_7?url=search-alias%3Dstripbooks&field-keywords=blender+3d&sprefix=blender%2Cstripbooks%2C146&crid=2RR9KCEQDFNG&rh=n%3A283155%2Ck%3Ablender+3d]
 
+Autodesk Maya 2018 Basics Guide _ISBN-10: 1630571121_
 Autodesk Maya 2018: A Comprehensive Guide _ISBN-10: 1942689977_
 
 </section>
@@ -156,16 +155,10 @@ Mike Rigley: [Network](https://vimeo.com/34750078)
 
 Alex Roman - [The Third & The Seventh](https://vimeo.com/24335209)
 
-Team Getaway - [Getaway](https://vimeo.com/39392036)
+Others [on Vimeo](https://vimeo.com/search/sort:popularity?q=3D+Channel)
 
 </section>
 <section data-markdown>
-###Commercials
-
-[Skoda Car Commercial](https://vimeo.com/25073794)
-
-[Silestone](https://vimeo.com/16239432)
-
 ###Movie VFX
 Johnny Likens - [IRON MAN 3 : HUD + GFX PROCESS REEL](https://vimeo.com/66944464)
 
@@ -185,7 +178,6 @@ Johnny Likens - [IRON MAN 3 : HUD + GFX PROCESS REEL](https://vimeo.com/66944464
 ##Up Next
 
 1. [Syllabus and Schedule]({{page.syllabus-url}})
-2. Autodesk Maya Demo
-3. Assignment
+2. Do we have time for a demo?
 
 </section>

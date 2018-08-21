@@ -3,7 +3,7 @@ layout: post
 title: Animated textures, motion paths, Batch Rendering
 categories: agenda
 comments: false
-published: true
+published: false
 excerpt:
 ---
 

@@ -5,6 +5,6 @@ assignment: project-1
 assignment-part: wireframes
 categories: project
 comments: false
-published: true
+published: false
 ---
 {% include schedule-post-assignment-proj.html %}

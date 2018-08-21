@@ -3,7 +3,7 @@ layout: post
 title: Lighting and Rendering Continuted
 categories: agenda
 comments: false
-published: true
+published: false
 excerpt:
 ---
 

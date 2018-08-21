@@ -5,6 +5,6 @@ categories: project
 assignment: project-1
 assignment-part: concepts
 comments: false
-published: true
+published: false
 ---
 {% include schedule-post-assignment-proj.html %}
