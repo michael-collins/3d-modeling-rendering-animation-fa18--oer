@@ -11,7 +11,7 @@ future: true
 plugins:
   - jekyll-sitemap
 # Github links
-github-repo: https://github.com/michael-collins/3d-modeling-rendering-animation-sp18--oer
+github-repo: https://github.com/michael-collins/3d-modeling-rendering-animation-fa18--oer
 #directoy config ########################################
 #collections_dir: all_collections
 collections:
