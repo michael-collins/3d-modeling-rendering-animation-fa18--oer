@@ -27,4 +27,6 @@ excerpt: Introduction to the course. We will discuss the syllabus and give a dem
    - **Editors and tools**
      - Hypershade, Attribute Editor, Channel Box, Layer Editor
      - Tool Shelves, Menu Set Mode, Menu Items
-6. What time is it?
+6. Intro tutorials
+   - Blender: [Blender Essential Training](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
+   - Maya: [Maya Essential Training](https://www.lynda.com/Maya-tutorials/Maya-2018-Essential-Training/604210-2.html?org=psu.edu)
