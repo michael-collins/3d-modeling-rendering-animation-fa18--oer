@@ -3,7 +3,7 @@ author: Michael Collins
 markdown: redcarpet
 redcarpet:
     extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data", "lax_spacing"]
-baseurl: /3d-modeling-rendering-animation-sp18--oer
+baseurl: /3d-modeling-rendering-animation-fa18--oer
 permalink: pretty
 markdown: kramdown
 timezone: America/New_York
