@@ -15,16 +15,18 @@ In this exercise, you will gain basic understanding of modeling fundamentals. Th
 
 **Level 1: Novice Students**
 
-[Youtube: Good Edge Flow](https://www.youtube.com/watch?v=Lip59doQQRk)
+Reference Sheet: [Blender Hotkeys](http://download.blender.org/documentation/BlenderHotkeyReference.pdf)
 
-Watch up to Lesson 3: [Blender Essentials](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
+Youtube - Modeling advice: [Good Edge Flow](https://www.youtube.com/watch?v=Lip59doQQRk)
 
-Watch Lesson 3 - Creating furniture videos 1 and 2: 
+Lynda - Watch up to Chapter 3: [Blender Essentials](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
+
+Lynda - Watch Chapter 3 - Creating furniture videos 1 and 2: 
 [Modeling the Eames Chair](https://www.lynda.com/Blender-tutorials/Beginning-Eames-chair/360620/384027-4.html?org=psu.edu)
 
 **Level 2: Intermediate Students**
 
-Watch up to Lesson 6: [Maya Essentials](https://www.lynda.com/Maya-tutorials/Maya-2018-Essential-Training/604210-2.html?org=psu.edu)
+Lynda - Watch up to Chapter 6: [Maya Essentials](https://www.lynda.com/Maya-tutorials/Maya-2018-Essential-Training/604210-2.html?org=psu.edu)
 
 [Lynda.com - Advanced Modeling](https://www.lynda.com/Maya-tutorials/Maya-Advanced-Modeling/622047-2.html?org=psu.edu)
 
