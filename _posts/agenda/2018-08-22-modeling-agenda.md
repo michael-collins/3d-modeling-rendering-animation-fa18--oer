@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Introduction to Modeling in Maya
+title: Introduction to Modeling
 categories: agenda
 comments: false
-published: false
-excerpt: Introduction to modeling in Autodesk Maya.
+published: true
+excerpt: Introduction to modeling.
 ---
 
 ### Agenda
