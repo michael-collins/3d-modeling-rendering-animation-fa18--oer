@@ -52,6 +52,14 @@
 
             {% endif %}
             <h5 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}"><span class="post-title">{{ post.title }}</span></a><span class="post-type {{post.categories}}"> ( {{post.categories}} )</span></h5>
+            {% if post.categories contains "exercise" %}
+                <div class="schedule-post-links">
+                <p class="schedule-due-date"><strong>Due date:</strong> {{site.assignments.[post.assignment].due-date}}</p>
+                <i class="far fa-file-alt"></i><a href="{{ site.assignments.[post.assignment].doc | prepend: site.baseurl }}"><span class="schedule-documentation">Instructions</span></a>
+                <i class="fas fa-cloud-upload-alt"></i><a href="{{ site.assignments.[post.assignment].dropbox-url }}"><span class="schedule-dropbox">Dropbox</span></a>
+                </div>
+            {% endif %}
+            
                     
         {% if forloop.last %}
         </td>

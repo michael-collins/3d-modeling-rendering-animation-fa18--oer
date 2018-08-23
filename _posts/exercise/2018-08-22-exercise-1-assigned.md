@@ -6,4 +6,4 @@ categories: exercise
 comments: false
 published: true
 ---
-{% include schedule-post-assignment.html %}
+{% include schedule-post-assignment.html assignment=post.assignment categories=post.categores %}

@@ -110,3 +110,11 @@ span.post-type {
 	font-size:0.8em;
 	color:#7b7b7b;
 }
+.schedule-post-links {
+	border-left: 3px solid black;
+	padding-left: 1em;
+	padding-bottom: 1em;
+}
+.schedule-post-links a {
+		margin-right:10px;
+}
