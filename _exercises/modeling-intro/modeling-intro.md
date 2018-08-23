@@ -15,7 +15,7 @@ In this exercise, you will gain basic understanding of modeling fundamentals. Th
 
 **Level 1: Novice Students**
 
-Reference Sheet: [Blender Hotkeys](http://download.blender.org/documentation/BlenderHotkeyReference.pdf)
+Blender Reference Sheet: [Blender Hotkeys](http://download.blender.org/documentation/BlenderHotkeyReference.pdf)
 
 Youtube - Modeling advice: [Good Edge Flow](https://www.youtube.com/watch?v=Lip59doQQRk)
 
@@ -23,6 +23,8 @@ Lynda - Watch up to Chapter 3: [Blender Essentials](https://www.lynda.com/Blende
 
 Lynda - Watch Chapter 3 - Creating furniture videos 1 and 2: 
 [Modeling the Eames Chair](https://www.lynda.com/Blender-tutorials/Beginning-Eames-chair/360620/384027-4.html?org=psu.edu)
+
+Modeling reference: [Speed modeling a chair](https://www.youtube.com/watch?v=xvpcchM9AfA)
 
 **Level 2: Intermediate Students**
 

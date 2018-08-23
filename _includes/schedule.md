@@ -55,8 +55,8 @@
             {% if post.categories contains "exercise" %}
                 <div class="schedule-post-links">
                 <p class="schedule-due-date"><strong>Due date:</strong> {{site.assignments.[post.assignment].due-date}}</p>
-                <i class="far fa-file-alt"></i><a href="{{ site.assignments.[post.assignment].doc | prepend: site.baseurl }}"><span class="schedule-documentation">Instructions</span></a>
-                <i class="fas fa-cloud-upload-alt"></i><a href="{{ site.assignments.[post.assignment].dropbox-url }}"><span class="schedule-dropbox">Dropbox</span></a>
+                <i class="far fa-file-alt"></i><a href="{{ site.assignments.[post.assignment].doc | prepend: site.baseurl }}" target="_blank"><span class="schedule-documentation">Instructions</span></a>
+                <i class="fas fa-cloud-upload-alt"></i><a href="{{ site.assignments.[post.assignment].dropbox-url }}" target="_blank"><span class="schedule-dropbox">Dropbox</span></a>
                 </div>
             {% endif %}
             
