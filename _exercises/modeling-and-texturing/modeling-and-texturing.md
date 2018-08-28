@@ -12,8 +12,6 @@ In this exercise, you will continue 3D modeling and begin texturing. There are d
 
 ## Learning Resources
 
-### Tutorials:
-
 ---
 
 **Level 1: Novice Students**

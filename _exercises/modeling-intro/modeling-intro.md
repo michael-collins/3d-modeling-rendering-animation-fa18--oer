@@ -11,8 +11,6 @@ In this exercise, you will gain basic understanding of modeling fundamentals. Th
 
 ## Learning Resources
 
-### Tutorials:
-
 **Level 1: Novice Students**
 
 Blender Reference Sheet: [Blender Hotkeys](http://download.blender.org/documentation/BlenderHotkeyReference.pdf)
