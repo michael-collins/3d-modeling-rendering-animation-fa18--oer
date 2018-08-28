@@ -101,10 +101,4 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 7. Upload the .zip file to the [submission dropbox]({{ site.assignments.[page.exercise].dropbox-url }})
 8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
-* * *
-
-## Grading
-Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 
-
-
 

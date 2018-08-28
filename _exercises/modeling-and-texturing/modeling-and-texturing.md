@@ -158,11 +158,3 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 └── {{ page.submission-id }}.blend or .mb
 
 ```
-
-* * *
-
-## Grading
-Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 
-
-
-
