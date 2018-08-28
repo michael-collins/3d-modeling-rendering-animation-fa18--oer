@@ -5,7 +5,7 @@ layout: exercise
 submission-id: modeling-02-YOURNAME
 asset-path: /assets/exercise-images
 exercise: exercise-2
-project-file: #
+project-file: /assets/exercise-downloads/airline-chair-1.blend
 ---
 
 In this exercise, you will continue 3D modeling and begin texturing. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
@@ -21,14 +21,15 @@ Blender:
 - Blender Reference Sheet: [Blender Hotkeys](http://download.blender.org/documentation/BlenderHotkeyReference.pdf)
 - Lynda - Watch Chapters 1- 4 and 7: [Blender Essentials](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
 - Lynda - Watch Chapters 1- 4: 
-[Texturing](https://www.lynda.com/Blender-tutorials/Blender-UV-Mapping/169107-2.html?org=psu.edu)
+[Texturing](https://www.lynda.com/Blender-tutorials/Blender-UV-Mapping/169107-2.html?org=psu.edu)  
 
 Maya:
 
-- Watch Chapters 1-6, and 10: [Maya Essential Training](https://www.lynda.com/Maya-tutorials/Maya-2018-Essential-Training/604210-2.html?org=psu.edu)
+- Watch Chapters 1-6, and 10: [Maya Essential Training](https://www.lynda.com/Maya-tutorials/Maya-2018-Essential-Training/604210-2.html?org=psu.edu)  
 
 Reference:
 
+- Airline Chair: [Download]({{ site.baseurl }}{{page.project-file}})
 - Modeling reference: [Speed modeling a chair](https://www.youtube.com/watch?v=xvpcchM9AfA)
 
 ---
@@ -63,7 +64,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 
 ### <a name="level-1"></a>Level 1:
 
-1. Duplicate the project folder and continue working on your model from the previous exercise. Optionally, you can start with this [project file]({{page.project-file}}).
+1. Duplicate the project folder and continue working on your model from the previous exercise. Optionally, you can start with this [project file]({{ site.baseurl }}{{page.project-file}}).
 2. Refine the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/) you began modeling. (Be careful not to accidentally create nurbs primitives when modeling)
    - Skills to practice include:
      - [Subdivision surfaces](https://docs.blender.org/manual/en/dev/modeling/meshes/editing/subdividing/bevel.html?highlight=bevel)
