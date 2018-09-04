@@ -22,8 +22,8 @@ Physically based materials:
 
 Downloads:
 
-- [Rock Texture Pack](/assets/exercise-images/RockGrey009.zip)
-- [Wood Texture Pack](/assets/exercise-images/RockGrey009.zipWoodFine08.zip)
+- [Rock Texture Pack]({{ site.baseurl }}/assets/exercise-downloads/RockGrey009.zip)
+- [Wood Texture Pack]({{ site.baseurl }}/assets/exercise-downloads/WoodFine08.zip)
 
 Blender:
 
