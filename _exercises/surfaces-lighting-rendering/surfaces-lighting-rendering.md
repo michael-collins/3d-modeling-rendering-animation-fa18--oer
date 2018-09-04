@@ -63,7 +63,27 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 11. Upload the .zip file to the [submission dropbox]({{ site.assignments.[page.exercise].dropbox-url }})
 12. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
+### <a name="level-2"></a>Level 2:
 
+1. Using Blender or Maya, create a polygonal model of a lamp.
+  - The object should have a bulb with an emission (emissive) material and act as a light source
+  - The lamp should have have a plastic body configured using the Principled BSDF shader. You can be clever with the design of the lamp.
+  - There should be a floor and one more walls of a room visible in the render, use any material you'd like for these. The lamp should not be "floating in space."
+2. Unwrap the UVs for each object if you intend to use textures. Ensure that your materials are mapping with your object's UVs.
+3. Adjust the camera's framing and focal length to create a good composition. Explore the camera presets. See video tutorial linked in resources.
+4. In Blender, **render** and image using Cycles renderer with the following settings:
+  - Image size: X=1920px, Y=1080px
+  - Sampling preset: Final
+5. Add the following three texture maps for the BSDF material (or equivilent in Maya):
+  - Color map: **_{{ page.submission-id }}_**-color.png
+  - Normal map: **_{{ page.submission-id }}_**-normal.png
+  - Specular: **_{{ page.submission-id }}_**-spec.png
+  - Note: You can ad additional maps as desired. These three are the minimum.
+5. In the render window, Image --> Save As **_{{ page.submission-id }}_**.png in the project folder.
+9. Save the 3D scene file as **_{{ page.submission-id }}_** in the project folder.
+10. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
+11. Upload the .zip file to the [submission dropbox]({{ site.assignments.[page.exercise].dropbox-url }})
+12. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 ### <a name="level-3"></a>Level 3:
 
