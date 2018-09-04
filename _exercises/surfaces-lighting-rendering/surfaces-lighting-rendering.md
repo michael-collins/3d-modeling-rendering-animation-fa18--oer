@@ -20,6 +20,10 @@ Physically based materials:
 - Blender: [Principled shader documentation](https://docs.blender.org/manual/en/dev/render/cycles/nodes/types/shaders/principled.html)
 - Maya: [Physically based rendering in Arnold](https://www.solidangle.com/research/physically_based_shader_design_in_arnold.pdf)
 
+Downloads:
+
+- [Rock Texture Pack](/assets/exercise-images/RockGrey009.zip)
+- [Wood Texture Pack](/assets/exercise-images/RockGrey009.zipWoodFine08.zip)
 
 Blender:
 
@@ -67,7 +71,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 
 1. Using Blender or Maya, create a polygonal model of a lamp.
   - The object should have a bulb with an emission (emissive) material and act as a light source
-  - The lamp should have have a plastic body configured using the Principled BSDF shader. You can be clever with the design of the lamp.
+  - The lamp should be configured using the Principled BSDF shader. You can be clever with the design of the lamp.
   - There should be a floor and one more walls of a room visible in the render, use any material you'd like for these. The lamp should not be "floating in space."
 2. Unwrap the UVs for each object if you intend to use textures. Ensure that your materials are mapping with your object's UVs.
 3. Adjust the camera's framing and focal length to create a good composition. Explore the camera presets. See video tutorial linked in resources.
