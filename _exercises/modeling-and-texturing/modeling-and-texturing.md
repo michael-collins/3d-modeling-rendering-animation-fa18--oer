@@ -21,11 +21,11 @@ Blender:
 - Blender Reference Sheet: [Blender Hotkeys](http://download.blender.org/documentation/BlenderHotkeyReference.pdf)
 - Lynda - Watch Chapters 1- 4 and 7: [Blender Essentials](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
 - Lynda - Watch Chapters 1- 4: 
-[Texturing](https://www.lynda.com/Blender-tutorials/Blender-UV-Mapping/169107-2.html?org=psu.edu)  
+[Texturing](https://www.lynda.com/Blender-tutorials/Blender-UV-Mapping/169107-2.html?org=psu.edu)
 
 Maya:
 
-- Watch Chapters 1-6, and 10: [Maya Essential Training](https://www.lynda.com/Maya-tutorials/Maya-2018-Essential-Training/604210-2.html?org=psu.edu)  
+- Watch Chapters 1-6, and 10: [Maya Essential Training](https://www.lynda.com/Maya-tutorials/Maya-2018-Essential-Training/604210-2.html?org=psu.edu)
 
 Reference:
 
