@@ -30,6 +30,7 @@ Blender:
 - Blender Reference Sheet: [Blender Hotkeys](http://download.blender.org/documentation/BlenderHotkeyReference.pdf)
 - Lynda - Watch Chapters 5-9: [Blender Essentials](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
 - [Setting up the redner camera in Blender](https://www.youtube.com/watch?v=SG6yOoq7FKI)
+- [PBR Materials Demo](https://www.youtube.com/watch?v=FRNCp9GueUs) By Joe Foresman
 
 Maya:
 
@@ -39,7 +40,7 @@ Maya:
 
 **Level 3: Experienced Students**
 
-- [Lynda.com - ZBrush Essential Training](https://www.lynda.com/ZBrush-4-tutorials/Essential-Training/76980-2.html?org=psu.edu) (Lessons 1- 7)  
+- [Lynda.com - ZBrush Essential Training](https://www.lynda.com/ZBrush-4-tutorials/Essential-Training/76980-2.html?org=psu.edu) (Lessons 1- 7) 
 - [Lynda.com - Sculpting a Creature with ZBrush](https://www.lynda.com/Photoshop-tutorials/Welcome/366834/386733-4.html?org=psu.edu) (Lessons 1 - 3)  
 
 ---
