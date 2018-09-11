@@ -11,6 +11,8 @@ excerpt: Introduction to lighting and rendering
 
 1. **Video Screening**
   - ["Goodbye Uncanny Valley"](https://vimeo.com/237568588) by Alan Warburton
+2. Reading
+  - [FX Guide: "Art of Rendering"](https://www.fxguide.com/featured/the-art-of-rendering/)
 2. **Terminology**
   - Shader
   - Key
