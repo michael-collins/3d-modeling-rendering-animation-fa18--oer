@@ -34,7 +34,7 @@ Examples:
 2. Unwrap the UVs for each object if you intend to use textures. Ensure that your materials are mapping with your object's UVs.
 3. Paint all textures using Photoshop.
 4. Export to SketchFab using add-on tool or manually upload scene files and textures.
-5. In SketchFab, set the camera to 45 degrees field of view.
+5. In SketchFab, set the camera to 1 degree field of view.
 5. Check to see that all lights and textures are working properly.
 9. Save all 3D scene file in the project folder called **_{{ page.submission-id }}_**.
 10. Inlude a .txt file of the SketchFab.com url in the scene folder.
