@@ -1,4 +1,3 @@
-
 ---
 title: Surfaces, Lighting, and Rendering
 subtitle: 
