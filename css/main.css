@@ -88,7 +88,11 @@ article.post .post-date {
 	font-size: 1.5em;
     /* border-top: 0.125rem #ccc solid; */
     /* padding-bottom: 2rem; */
-    /* padding-top: 3rem; */
+		/* padding-top: 3rem; */
+}
+h5.post-date {
+	font-size:1.4em;
+	padding: 0 0 1rem 1rem;
 }
 article.post h5.post-title {
     font-size: 1.5rem;
@@ -111,7 +115,7 @@ span.post-type {
 	color:#7b7b7b;
 }
 .schedule-post-links {
-	border-left: 3px solid black;
+	border-left: 3px solid rgb(182, 182, 182);
 	padding-left: 1em;
 	padding-bottom: 1em;
 }
@@ -128,4 +132,24 @@ article.exercises ul:not(.browser-default) {
 }
 .upper {
 	text-transform: uppercase;
+}
+/* a.has-icon {
+	margin-left:1em;
+} */
+div.post-wrapper {
+	border-left: 3px solid black;
+	padding-left: 1em;
+	padding-bottom: 1em;
+	margin-bottom: 1em;
+	margin-top: 1em;
+}
+.post-wrapper > i, .post-wrapper > svg {
+	/* display: inline-flex; */
+	/* left: -3rem; */
+	/* position: relative; */
+	width: 1.75em !important;
+    height: 1.75em;
+}
+.no-break {
+	white-space: nowrap;
 }

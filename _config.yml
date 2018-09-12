@@ -1,5 +1,7 @@
 name: 3D Digital Art and Design Open Education Resource
+course-title: ART314
 author: Michael Collins
+email: msc227@psu.edu
 markdown: redcarpet
 redcarpet:
     extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data", "lax_spacing"]
@@ -15,9 +17,9 @@ github-repo: https://github.com/michael-collins/3d-modeling-rendering-animation-
 #directoy config ########################################
 #collections_dir: all_collections
 collections:
-  agenda:
+  agendas:
     output: true
-    permalink: /agenda/:title.html
+    permalink: /agendas/:title.html
   lessons:
     output: true
     permalink: /lessons/:title.html
@@ -27,6 +29,12 @@ collections:
   projects:
     output: true
     permalink: /projects/:title.html
+  presentations:
+    output: true
+    permalink: /presentations/:title.html
+  assignments:
+    output: true
+    permalink: /assignments/:title.html
   grading:
     output: true
     permalink: /grading/:title.html

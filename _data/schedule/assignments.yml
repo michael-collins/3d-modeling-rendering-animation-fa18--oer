@@ -1,0 +1,134 @@
+- title: Exercise 1
+  id: modeling-intro
+  type: exercise
+  # posted-date: 8/21/2018
+  posted-date-iso: '2018-08-21T14:30:00'
+  # due-date: 2:30pm on August 28, 2018
+  due-date-iso: '2018-08-28T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335150
+  doc: /assignments/modeling-intro.html
+  published: true
+
+- title: Exercise 2
+  id: modeling-and-texturing
+  type: exercise
+  # posted-date: 8/28/2018
+  posted-date-iso: '2018-08-28T14:30:00'
+  # 2:30pm on September 4, 2018
+  due-date-iso: '2018-09-04T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335151
+  doc: /assignments/modeling-and-texturing.html
+  published: true
+
+- title: Exercise 3
+  id: surfaces-lighting-rendering
+  type: exercise
+  # posted-date: 2:30pm on 9/04/2018
+  posted-date-iso: '2018-09-04T14:30:00'
+  # due-date: 2:30pm on September 11, 2018
+  due-date-iso: '2018-09-11T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335152
+  doc: /assignments/surfaces-lighting-rendering.html
+  published: true
+
+- title: Exercise 4
+  id: realtime-sketchfab
+  type: exercise
+  # posted-date: 2:30pm on 9/04/2018
+  posted-date-iso: '2018-09-11T14:30:00'  
+  # due-date: 2:30pm on Sept 18, 2018
+  due-date-iso: '2018-09-18T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335153
+  doc: /assignments/realtime-sketchfab.html
+  published: true
+
+- title: Exercise 5
+  id: exercise-4
+  type: exercise
+  # posted-date: 2:30pm on 
+  posted-date-iso:  
+  # due-date: 2:30pm on 
+  due-date-iso:
+  dropbox-url:
+  doc: /assignments/
+  published: false
+
+- title: Exercise 6
+  id: exercise-4
+  type: exercise
+  # posted-date: 2:30pm on 
+  posted-date-iso:
+  # due-date: 2:30pm on 
+  due-date-iso:
+  dropbox-url:
+  doc: /assignments/
+  published: false
+
+- title: Exercise 7
+  id: exercise-4
+  type: exercise
+  # posted-date: 2:30pm on 
+  posted-date-iso: 
+  # due-date: 2:30pm on 
+  due-date-iso:
+  dropbox-url:
+  doc: /assignments/
+  published: false
+
+- title: Project 1
+  id: project-speculative-design
+  type: project
+  # posted-date: 2:30pm on 9/21/2018
+  posted-date-iso: '2018-09-21T14:30:00'
+  dropbox-url: 
+  doc: /assignments/project-speculative-design.html
+  published: false
+  milestones:
+    - concepts:
+      # due-date: 2:30pm on February 1, 2018
+      due-date-iso: '2018-09-18T14:30:00'
+      dropbox-url: 
+      title: Project 1 Concepts
+      doc: projects/-.html
+    - wireframes:
+      # due-date: 2:30pm on February 8, 2018
+      due-date-iso: '2018-10-01T14:30:00'
+      dropbox-url: 
+      title: Project 1 Wireframes
+      doc: projects/-.html
+    - look-development:
+      # due-date: 2:30pm on February 13, 2018
+      due-date-iso: '2018-10-02T14:30:00'
+      dropbox-url: 
+      title: Project 1 Look Development
+      doc: projects/-.html
+    - draft-renders:
+      # due-date: 2:30pm on February 15, 2018
+      due-date-iso: '2018-10-03T14:30:00'
+      dropbox-url: 
+      title: Project 1 Draft Renders
+      doc: projects/-.html
+    - draft-statement:
+      # due-date: 2:30pm on February 22, 2018
+      due-date-iso: '2018-10-04T14:30:00'
+      dropbox-url: 
+      title: Project 1 Draft Statement
+      doc: projects/-.html
+    - final-statement:
+      # due-date: 2:30pm on February 27, 2018
+      due-date-iso: '2018-10-05T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335153
+      title: Project 1 Final Statement
+      doc: projects/-.html
+    - final-submission:
+      # due-date: 2:30pm on February 27, 2018
+      due-date-iso: '2018-10-06T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335153
+      title: Project 1 Final Submission
+      doc: projects/-.html
+    - post-crit-revision:
+      # due-date: 2:30pm on March 15, 2018
+      due-date-iso: '2018-10-07T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335153
+      title: Project 1 Optional Post Critique Revision
+      doc: projects/-.html
