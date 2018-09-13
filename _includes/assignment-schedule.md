@@ -47,13 +47,13 @@
 
 
 {% elsif include.mode == "table" %}
-    <table class="striped">
-        <thead>
+    <table class="striped schedule">
+        {% comment %} <thead>
           <tr>
               <th>Date</th>
               <th>Assignment</th>
           </tr>
-        </thead>
+        </thead> {% endcomment %}
             <tbody>
             {% comment %} #### BUILD ARRAY ####
             ## Combine all agenda, assignments, and presentations into a single array
