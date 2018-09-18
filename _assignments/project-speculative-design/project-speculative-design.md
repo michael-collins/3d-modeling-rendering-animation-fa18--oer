@@ -6,7 +6,7 @@ banner-img: /assets/exercise-images/speculative-design-alt2.jpg
 ---
 For this project, you will create **three** images. You will design, model, texture, and render speculative objects and critically reflect on how your images relate to the theme in a 150 word work statement.
 
-You will develop your concept around some thing, or experience that you interact with daily, and re-imagine it as a idealized fictional version set in the future. You will decide what kind of attributes make an object ideal, and for what purpose. This fiction can be naturally occurring, manufactured, synthetic, biological, or a mix.
+You will develop your concept around some environment, structure, thing, or experience that you find exciting, and re-imagine it as a fictional version set in the future. You will imagine it's purpose and how it differs from examples of current day. This fiction can be naturally occurring, manufactured, synthetic, biological, or a mix. Experiment with unexpected colors, materials, proportions, scales, and textures.
 
 >"a shift from designing for how the world is ... to designing for how the world could be"
 >
@@ -38,7 +38,7 @@ You will go through a variety of different project phases including:
 
 ## Constraints
 - Use 3D tools to produce images
-- Three separately rendered images
+- **Three** separately rendered images
 - All assets used in the production of the work must be created by you, be appropriately licensed for use, or be appropriated in a transformative way that significantly alters the nature of the original asset.
 
 
