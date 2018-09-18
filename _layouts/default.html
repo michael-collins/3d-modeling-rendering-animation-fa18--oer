@@ -21,8 +21,12 @@
 
 		<section class="page-header site-header px2 px-responsive">
 		   <div class="measure">
+			   {% if page.banner-img !="" and page.banner-img !=null and page.banner-img !=false %}
+			   <img src="{{ site.baseurl }}{{page.banner-img}}" alt="banner image">
+			   {% endif %}
 			   <h1 class="page-title">{{ page.title }}</h1>
 			   <h2 class="page-subtitle">{{ page.subtitle }}</h2>
+			   
 			</div>
 		</section>
 		

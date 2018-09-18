@@ -42,93 +42,47 @@
   doc: /assignments/realtime-sketchfab.html
   published: true
 
-- title: Exercise 5
-  id: exercise-4
-  type: exercise
-  # posted-date: 2:30pm on 
-  posted-date-iso:  
-  # due-date: 2:30pm on 
-  due-date-iso:
-  dropbox-url:
-  doc: /assignments/
-  published: false
-
-- title: Exercise 6
-  id: exercise-4
-  type: exercise
-  # posted-date: 2:30pm on 
-  posted-date-iso:
-  # due-date: 2:30pm on 
-  due-date-iso:
-  dropbox-url:
-  doc: /assignments/
-  published: false
-
-- title: Exercise 7
-  id: exercise-4
-  type: exercise
-  # posted-date: 2:30pm on 
-  posted-date-iso: 
-  # due-date: 2:30pm on 
-  due-date-iso:
-  dropbox-url:
-  doc: /assignments/
-  published: false
-
 - title: Project 1
   id: project-speculative-design
   type: project
   # posted-date: 2:30pm on 9/21/2018
-  posted-date-iso: '2018-09-21T14:30:00'
-  dropbox-url: 
+  posted-date-iso: '2018-09-18T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
   doc: /assignments/project-speculative-design.html
-  published: false
+  published: true
   milestones:
     - concepts:
-      # due-date: 2:30pm on February 1, 2018
-      due-date-iso: '2018-09-18T14:30:00'
-      dropbox-url: 
+      due-date: 2:30pm on September 20, 2018
+      due-date-iso: '2018-09-20T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
       title: Project 1 Concepts
-      doc: projects/-.html
     - wireframes:
-      # due-date: 2:30pm on February 8, 2018
-      due-date-iso: '2018-10-01T14:30:00'
-      dropbox-url: 
+      due-date: 2:30pm on September 27, 2018
+      due-date-iso: '2018-09-27T14:30:00'
       title: Project 1 Wireframes
-      doc: projects/-.html
-    - look-development:
-      # due-date: 2:30pm on February 13, 2018
-      due-date-iso: '2018-10-02T14:30:00'
-      dropbox-url: 
-      title: Project 1 Look Development
-      doc: projects/-.html
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
     - draft-renders:
-      # due-date: 2:30pm on February 15, 2018
-      due-date-iso: '2018-10-03T14:30:00'
-      dropbox-url: 
+      due-date: 2:30pm on October 2, 2018
+      due-date-iso: '2018-10-02T14:30:00'
       title: Project 1 Draft Renders
-      doc: projects/-.html
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
     - draft-statement:
-      # due-date: 2:30pm on February 22, 2018
-      due-date-iso: '2018-10-04T14:30:00'
-      dropbox-url: 
+      due-date: 2:30pm on October 9, 2018
+      due-date-iso: '2018-10-09T14:30:00'
       title: Project 1 Draft Statement
-      doc: projects/-.html
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
     - final-statement:
-      # due-date: 2:30pm on February 27, 2018
-      due-date-iso: '2018-10-05T14:30:00'
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335153
+      due-date: 2:30pm on October 11, 2018
+      due-date-iso: '2018-10-11T14:30:00'
       title: Project 1 Final Statement
-      doc: projects/-.html
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
     - final-submission:
-      # due-date: 2:30pm on February 27, 2018
-      due-date-iso: '2018-10-06T14:30:00'
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335153
+      due-date: 2:30pm on October 11, 2018
+      due-date-iso: '2018-10-11T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
       title: Project 1 Final Submission
-      doc: projects/-.html
     - post-crit-revision:
-      # due-date: 2:30pm on March 15, 2018
-      due-date-iso: '2018-10-07T14:30:00'
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335153
+      due-date: 2:30pm on October 18, 2018
+      due-date-iso: '2018-10-18T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158 
       title: Project 1 Optional Post Critique Revision
-      doc: projects/-.html
