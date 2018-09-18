@@ -4,13 +4,13 @@ subtitle: Imagining design fictions
 layout: project
 banner-img: /assets/exercise-images/speculative-design-alt2.jpg
 ---
-For this project, you will create **three** images. You will design, model, texture, and render speculative objects and critically reflect on how your images relate to the theme in a 150 word work statement.
-
-You will develop your concept around some environment, structure, object, or experience that you find interesting or problematic, and re-imagine it as a fictional version set in the future. You will imagine it's purpose and how it differs from examples of current day. This fiction can be naturally occurring, manufactured, synthetic, biological, or a mix. Experiment with unexpected colors, materials, proportions, scales, and textures.
-
 >"a shift from designing for how the world is ... to designing for how the world could be"
 >
 > —Dunne and Raby, "Speculative Everything"
+
+For this project, you will create **three** images. You will design, model, texture, and render speculative objects and critically reflect on how your images relate to the theme in a 150 word work statement.
+
+You will develop your concept around some environment, structure, object, or experience that you find interesting or problematic, and re-imagine it as a fictional version set in the future. You will imagine it's purpose and how it differs from examples of current day. This fiction can be naturally occurring, manufactured, synthetic, biological, or a mix. Experiment with unexpected colors, materials, proportions, scales, and textures.
 
 A successful project will demonstrate understanding and mastery of 3D tools and processes, the application of [formal design principles](http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), competent [rendering technique](https://www.lynda.com/Maya-tutorials/Creating-Product-Shots-Maya/160716-2.html?org=psu.edu), good [composition](https://www.lynda.com/Photoshop-Elements-tutorials/essentials-composition/633865/676339-4.html?org=psu.edu)practices, and will require the you lead to discussion about the kind of reality needed to make these objects possible and the importance of pursuing or not pursuing such realities.
 
