@@ -76,5 +76,3 @@ All deliverables will be uploaded to the linked dropboxes.
   - Upload a ZIP file of a folder called **_statement-final.doc_**
 8. **OPTIONAL: Post critique work updates\(2:30pm on October 18, 2018)**
   - Upload any work revisions to this folder. Be sure to ZIP and name files.
-  
-  
