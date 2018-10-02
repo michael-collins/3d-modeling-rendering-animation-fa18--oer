@@ -61,9 +61,10 @@ All deliverables will be uploaded to the linked dropboxes.
   - Minimum size per image: 3600px wide by 1800px tall
 4. **Poster PDF \(2:30pm on October 4, 2018\)**
   - Upload a ZIP file of a folder called **_poster_**
-  - Name poster **_poster.pfd_**
-  - Poster size: 24" x 34"
+  - Name poster **_poster.pdf_**
+  - Poster size: 24" x 36"
   - Format: PDF
+  - Export with High Quality Print preset in InDesign or Illustrator.
 5. **Written draft statement \(2:30pm on October 9, 2018)**
   - Upload a ZIP file of a folder called **_statement_**
   - Write and add a statement (min 150 words) named **_statement-draft.doc_** to the **_statement_** folder
