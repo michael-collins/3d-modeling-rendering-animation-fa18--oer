@@ -55,13 +55,13 @@ All deliverables will be uploaded to the linked dropboxes.
   - Upload a ZIP file of a folder called **_wireframes_**
   - Add screenshots of your polygonal wireframes according to this convention **_wireframe-[#].jpg_** (I.E. - wireframe-1.jpg) to the **_wireframes_** folder
   - Attempt to meet the [CheckMate 3D Modeling Pro Standard](https://www.turbosquid.com/CheckMate)
-3. **Three Rendered Images \(2:30pm on October 2, 2018)**
+3. **Three Rendered Images \(2:30pm on October 4, 2018)**
   - Upload a ZIP file of a folder called **_renders_**
   - Add renders according to this convention **_render-[#].jpg_** (I.E. - render-1.jpg) to the **_renders_** folder
   - Minimum size per image: 3600px wide by 1800px tall
 4. **Poster PDF \(2:30pm on October 4, 2018\)**
   - Upload a ZIP file of a folder called **_poster_**
-  - Name poster **poster.pfd_**
+  - Name poster **_poster.pfd_**
   - Poster size: 24" x 34"
   - Format: PDF
 5. **Written draft statement \(2:30pm on October 9, 2018)**
