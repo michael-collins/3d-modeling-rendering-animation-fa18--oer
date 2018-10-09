@@ -68,11 +68,11 @@ All deliverables will be uploaded to the linked dropboxes.
 5. **Written draft statement \(2:30pm on October 9, 2018)**
   - Upload a ZIP file of a folder called **_statement_**
   - Write and add a statement (min 150 words) named **_statement-draft.doc_** to the **_statement_** folder
-6. **Final submission showing iterative improvement based on feedback \(2:30pm on October 11, 2018)**
+6. **Final submission showing iterative improvement based on feedback \(2:30pm on October 16, 2018)**
   - Upload a ZIP file of a folder called **_final-poster_**
   - Add renders according to this convention **_render-[#].jpg_** (I.E. - render-1.jpg) to the **_final-poster_** folder
   - Minimum Image Size: 1080 HD preset
-7. **Revised work statement \(2:30pm on October 11, 2018)**
+7. **Revised work statement \(2:30pm on October 16, 2018)**
   - Upload a ZIP file of a folder called **_statement-final.doc_**
-8. **OPTIONAL: Post critique work updates\(2:30pm on October 18, 2018)**
+8. **OPTIONAL: Post critique work updates\(2:30pm on October 23, 2018)**
   - Upload any work revisions to this folder. Be sure to ZIP and name files.
