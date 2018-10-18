@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Introduction to Animation in Maya
+title: Introduction to Animation in 3D
 categories: agenda
 comments: false
-published: false
-excerpt: Introduction to animation in Autodesk Maya.
+published: true
+excerpt: Introduction to animation in 3D.
 ---
 
 ### Agenda
@@ -15,18 +15,17 @@ excerpt: Introduction to animation in Autodesk Maya.
   - [Illusion of Life](https://vimeo.com/93206523)
   - [Berlin Tetris](https://vimeo.com/6736261)
   - [NYT - Circle squared](https://vimeo.com/17090753)
-3. **Terminology**
+3. Reading
+  - [Blender Animation](https://docs.blender.org/manual/en/latest/animation/index.html)
+  - [Armatures](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Bones)
+4. **Terminology**
   - Pivot point
-  - Groups
-  - Graph Editor
-  - Keyframe
+  - Graph Editor (handles: tangets, bezier, etc.)
+  - Dope Sheet
+  - Keyframes (Auto keyframe, keyable atrributes)
   - Timeline
   - FPS
-  - Dope Sheet
-  - Playblast
-  - Deformers
-  - Tangets
   - 12 Principles of animation
   - Newton's 3 laws
-4. **Texturing Demo**
-5. Animation exercise
+  - Rigging (bones or joints)
+5. **Animation Tools Demo**

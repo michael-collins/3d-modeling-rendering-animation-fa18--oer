@@ -33,20 +33,20 @@
   doc: /agendas/realtime-npr-agenda.html
   published: true
 
+- title: Animation Agenda
+  id: animation-intro-agenda
+  type: agenda
+  posted-date-iso: '2018-10-18T14:30:00'
+  doc: /agendas/animation-intro-agenda.html
+  published: true
+
 - title: Rigging Agenda
   id: rigging-agenda
   type: agenda
   posted-date-iso: '2018-08-28T14:30:00'
   doc: /agendas/rigging-agenda.html
   published: false
-
-- title: Animation Agenda
-  id: animation-agenda
-  type: agenda
-  posted-date-iso: '2018-08-28T14:30:00'
-  doc: /agendas/animation-agenda.html
-  published: false
-
+  
 - title: Texture Animation Agenda
   id: texture-animation-agenda
   type: agenda
