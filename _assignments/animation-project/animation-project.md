@@ -1,13 +1,13 @@
 ---
-title: 30 Seconds of Animation
-subtitle: A 3D animated short film project
+title: Animation Sequence Project
+subtitle: A 3D animated short film
 layout: project
 theme: journey
 ---
 
 ## Description
 
-For this project, you produce an animation centered around the theme of **"{{ page.theme }}"**. You will design, model, texture, animate, and render a **30 second animation** in response to sound that you find in the **Experimental** category on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) to interpret the project theme, [{{ page.theme }}](http://www.dictionary.com/browse/{{ page.theme }}). Pay special attention to the [audio track's licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that claims to derivatives in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
+For this project, you produce an animation centered around the theme of **"{{ page.theme }}"**. You will design, model, texture, animate, and render a **10 - 30 second animation** in response to sound that you find in the **Experimental** category on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) to interpret the project theme, [{{ page.theme }}](http://www.dictionary.com/browse/{{ page.theme }}). Pay special attention to the [audio track's licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that claims to derivatives in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
 You will also critically reflect on your work and the poject theme in a 150 word work statement.
 
@@ -46,7 +46,7 @@ David O'Reilly: [Childhood - [Adult Swim]](https://vimeo.com/103551096), [Bomb](
 ## Constraints
 
 - Use 3D tools to produce animation
-- 30 seconds of animation
+- 10 - 30 seconds of animation
 - All assets used in the production of the work must be created by you, be appropriately licensed for use, or be appropriated in a transformative way that significantly alters the nature of the original asset.
 
 
@@ -56,30 +56,30 @@ When uploading files to the dropboxes, ensure that you use the naming convention
 
 
 1. **Project 2 Concepts (Due: October 30th)**
-  - Requirements: 
-     - 3 to 5 different written ideas. What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/)
-     - Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/).
-     - Visual reference sheet(s): [Example of visual reference sheet](http://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
-     - Concept drawings: Add scans or photographs. These must be 'well-photographed' and cropped/straightened photos of your concept drawings and text.
+   - Requirements: 
+      - 3 to 5 different written ideas. What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/)
+      - Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/).
+      - Visual reference sheet(s): [Example of visual reference sheet](http://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
+      - Concept drawings: Add scans or photographs. These must be 'well-photographed' and cropped/straightened photos of your concept drawings and text.
 2. **Project 2 Playblast (Due: November 8th)**
-  - Requirements: 
-     - Create a 15-30 second compressed .mp4 of your playblasts edited with sound. This is also known as an animatic. Please consider relevant aspects of camera, composition, staging, pacing, and animation. 
-     - 1080 HD preset
+   - Requirements: 
+      - Create a 15-30 second compressed .mp4 of your playblasts edited with sound. This is also known as an animatic. Please consider relevant aspects of camera, composition, staging, pacing, and animation. 
+      - 1080 HD preset
 3. **Project 2 Test Renders (Due: November 13th)**
-  - Note: 20 second render times per frame takes 4 hours for a computer to render 30 seconds worth of frames
-  - Requirements: 
-     - 3 to 5 test renders, each from a different part of the animation
-     - 1080 HD preset
-     - Render time must be under a minute (unless you plan to pay for an online renderfarm)
+   - Note: 20 second render times per frame takes 4 hours for a computer to render 30 seconds worth of frames
+   - Requirements: 
+      - 3 to 5 test renders, each from a different part of the animation
+      - 1080 HD preset
+      - Render time must be under a minute (unless you plan to pay for an online renderfarm)
 4. **Project 2 Final Submission (Due: November 27th)**
-  - Requirements: 
-     - Upload .mp4 video file in H.264 format
-     - `.txt` file with link to vimeo
+   - Requirements: 
+      - Upload .mp4 video file in H.264 format
+      - `.txt` file with link to vimeo
 5. **Project 2 Revision (Due: December 6th)**
-  - Requirements: 
-     - Write and add a statement format named (min 150 words) called **_statement.doc_** to the **_statement_** folder
-     - Upload .mp4 video file in H.264 format
-     - `.txt` file with link to vimeo
+   - Requirements: 
+      - Write and add a statement format named (min 150 words) called **_statement.doc_** to the **_statement_** folder
+      - Upload .mp4 video file in H.264 format
+      - `.txt` file with link to vimeo
 
 
 ### Naming Conventions
