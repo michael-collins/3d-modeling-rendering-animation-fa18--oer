@@ -102,3 +102,38 @@
       due-date-iso: '2018-10-23T14:30:00'
       dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158 
       title: Project 1 Optional Post Critique Revision
+  
+- title: Project 2
+  id: animation-project
+  type: project
+  # posted-date: 2:30pm on 10/23/2018
+  posted-date-iso: '2018-10-23T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335159
+  doc: /assignments/animation-project.html
+  published: true
+  milestones:
+    - concepts:
+      due-date: 2:30pm on October 30, 2018
+      due-date-iso: '2018-10-30T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10436748
+      title: Project 2 Concepts
+    - playblast:
+      due-date: 2:30pm on November 8, 2018
+      due-date-iso: '2018-11-08T14:30:00'
+      title: Project 2 playblast
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10436750
+    - test-renders:
+      due-date: 2:30pm on November 13, 2018
+      due-date-iso: '2018-11-15T14:30:00'
+      title: Project 2 Test Renders
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10436749
+    - final-submission:
+      due-date: 2:30pm on November 27, 2018
+      due-date-iso: '2018-11-27T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335159
+      title: Project 2 Final Submission
+    - revision:
+      due-date: 2:30pm on December 6, 2018
+      due-date-iso: '2018-12-06T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10436751
+      title: Project 2 Optional Post Critique Revision

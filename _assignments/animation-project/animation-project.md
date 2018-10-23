@@ -54,32 +54,28 @@ David O'Reilly: [Childhood - [Adult Swim]](https://vimeo.com/103551096), [Bomb](
 
 When uploading files to the dropboxes, ensure that you use the naming conventions and folder structure, listed below.
 
-1. **{{site.data.assignments.project-2.milestones.concepts.title}} (Due: {{site.assignments.project-2.concepts.due-date}})**
-  - Dropbox: [{{site.assignments.project-2.concepts.title}}]({{site.assignments.project-2.concepts.dropbox-url}})
+
+1. **Project 2 Concepts (Due: October 30th)**
   - Requirements: 
      - 3 to 5 different written ideas. What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/)
      - Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/).
      - Visual reference sheet(s): [Example of visual reference sheet](http://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
      - Concept drawings: Add scans or photographs. These must be 'well-photographed' and cropped/straightened photos of your concept drawings and text.
-2. **{{site.assignments.project-2.playblast.title}} (Due: {{site.assignments.project-2.playblast.due-date}})**
-  - Dropbox: [{{site.assignments.project-2.playblast.title}}]({{site.assignments.project-2.playblast.dropbox-url}})
+2. **Project 2 Playblast (Due: November 8th)**
   - Requirements: 
      - Create a 15-30 second compressed .mp4 of your playblasts edited with sound. This is also known as an animatic. Please consider relevant aspects of camera, composition, staging, pacing, and animation. 
      - 1080 HD preset
-3. **{{site.assignments.project-2.test-renders.title}} (Due: {{site.assignments.project-2.test-renders.due-date}})**
-  - Dropbox: [{{site.assignments.project-2.test-renders.title}}]({{site.assignments.project-2.test-renders.dropbox-url}})
+3. **Project 2 Test Renders (Due: November 13th)**
   - Note: 20 second render times per frame takes 4 hours for a computer to render 30 seconds worth of frames
   - Requirements: 
      - 3 to 5 test renders, each from a different part of the animation
      - 1080 HD preset
      - Render time must be under a minute (unless you plan to pay for an online renderfarm)
-4. **{{site.assignments.project-2.final-submission.title}} (Due: {{site.assignments.project-2.final-submission.due-date}})**
-  - Dropbox: [{{site.assignments.project-2.final-submission.title}}]({{site.assignments.project-2.final-submission.dropbox-url}})
+4. **Project 2 Final Submission (Due: November 27th)**
   - Requirements: 
      - Upload .mp4 video file in H.264 format
      - `.txt` file with link to vimeo
-5. **{{site.assignments.project-2.post-crit-revision.title}} (Due: {{site.assignments.project-2.post-crit-revision.due-date}})**
-  - Dropbox: [{{site.assignments.project-2.post-crit-revision.title}}]({{site.assignments.project-2.post-crit-revision.dropbox-url}})
+5. **Project 2 Revision (Due: December 6th)**
   - Requirements: 
      - Write and add a statement format named (min 150 words) called **_statement.doc_** to the **_statement_** folder
      - Upload .mp4 video file in H.264 format

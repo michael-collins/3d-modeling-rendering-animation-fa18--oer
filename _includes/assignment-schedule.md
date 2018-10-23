@@ -117,7 +117,7 @@
                                 {% for milestone in item.milestones %}
                                     <h6>{{milestone.title}}</h6>
                                     <p class="schedule-due-date"><strong>Due date:</strong> {{ milestone.due-date-iso | date: "%B %e at %I:%M%P %Z" }}</p>
-                                    <i class="fas fa-cloud-upload-alt"></i><a href="{{ item.dropbox-url }}" target="_blank"><span class="schedule-dropbox">Dropbox</span></a>
+                                    <i class="fas fa-cloud-upload-alt"></i><a href="{{ milestone.dropbox-url }}" target="_blank"><span class="schedule-dropbox">Dropbox</span></a>
                                     {% if forloop.last  == true %}
                                     {% else %}
                                     <hr>
