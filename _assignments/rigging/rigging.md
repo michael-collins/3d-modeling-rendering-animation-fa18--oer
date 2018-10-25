@@ -6,9 +6,10 @@ submission-id: rigging-05-YOURNAME
 assignment-dropbox: 
 exercise: exercise-5
 asset-path: /assets/exercise-images
+download-path: /assets/exercise-downloads
 ---
 
-In this exercise, you will practice creating a rig for a polygon mesh and adding deformers. You will create a simple biped rig starting with the [base mesh FBX file]({{base.url}}{{page.asset-path/}}biped-base-mesh.fbx).
+In this exercise, you will practice creating a rig for a polygon mesh and adding deformers. You will create a simple biped rig starting with the [base mesh FBX file]({{site.baseurl}}{{page.download-path}}/biped-base-mesh.fbx).
 
 ## Learning Resources:
 
@@ -19,7 +20,7 @@ Lynda Tutorials: [12 Principles of Animation](https://www.lynda.com/3ds-Max-tuto
 ## Steps to Completion
 
 1. Watch the level rigging tutorials.
-2. Download the base [base mesh FBX file]({{base.url}}{{page.asset-path/}}biped-base-mesh.fbx).
+2. Download the base [base mesh FBX file]({{site.baseurl}}{{page.download-path}}/biped-base-mesh.fbx).
 3. Import the mesh into a Blender scene.
 4. Scale up the model.
 5. Add subdivisions (edge loops) to the polygonal mesh to minimize unwanted distortion when posing the mesh. Add geometry to articulate the knee, elbows, and arms.
