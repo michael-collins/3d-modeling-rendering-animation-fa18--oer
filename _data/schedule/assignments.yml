@@ -43,14 +43,14 @@
   published: true
 
 - title: Exercise 5
-  id: animation-intro
+  id: rigging
   type: exercise
-  # posted-date: 2:30pm on 10/18/2018
-  posted-date-iso: '2018-10-18T14:30:00'  
-  # due-date: 2:30pm on Oct 18, 2018
-  due-date-iso: '2018-10-18T14:30:00'
-  dropbox-url: 
-  doc: /assignments/animation-intro.html
+  # posted-date: 2:30pm on 11/01/2018
+  posted-date-iso: '2018-11-01T14:30:00'  
+  # due-date: 2:30pm on Nov 1, 2018
+  due-date-iso: '2018-11-01T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335154
+  doc: /assignments/rigging.html
   published: true
 
 - title: Project 1
