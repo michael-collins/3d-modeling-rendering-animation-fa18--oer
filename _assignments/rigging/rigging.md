@@ -15,6 +15,8 @@ In this exercise, you will practice creating a rig for a polygon mesh. You will 
 
 Lynda.com: [Character Rigging](https://www.lynda.com/Blender-tutorials/Rigging-Humanoid-Character-Blender/365285-2.html?org=psu.edu)
 
+[Weight Painting](https://www.youtube.com/watch?v=Tl4qTgwQwYw)
+
 Lynda Tutorials: [12 Principles of Animation](https://www.lynda.com/3ds-Max-tutorials/12-Principles-Animation-CG-Animators/474685-2.html?org=psu.edu)
 
 ## Steps to Completion
