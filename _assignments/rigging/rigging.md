@@ -9,7 +9,7 @@ asset-path: /assets/exercise-images
 download-path: /assets/exercise-downloads
 ---
 
-In this exercise, you will practice creating a rig for a polygon mesh and adding deformers. You will create a simple biped rig starting with the [base mesh FBX file]({{site.baseurl}}{{page.download-path}}/biped-base-mesh.fbx).
+In this exercise, you will practice creating a rig for a polygon mesh. You will create a simple biped rig starting with the [base mesh FBX file]({{site.baseurl}}{{page.download-path}}/biped-base-mesh.fbx).
 
 ## Learning Resources:
 
