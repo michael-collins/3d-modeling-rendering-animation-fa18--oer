@@ -8,7 +8,7 @@ banner-img: /assets/exercise-images/speculative-design-alt2.jpg
 >
 > —Dunne and Raby, "Speculative Everything"
 
-For this project, you will create a **speculative design fiction** that will take the form of a poster. You will design, model, texture, and render a set of **_**three related images**_** and critically reflect on your work in a 150 word **work statement**. In addition to the images and work statement, you will places these images on a **24" by 36" poster** (PDF, printing optional) with descriptive text where necessary. The goal of this project is to communicate and explain your ideas in the format of an art poster.
+For this project, you will create a **speculative design fiction** that will take the form of a poster. You will design, model, texture, and render a set of **three related images** and critically reflect on your work in a 150 word **work statement**. In addition to the images and work statement, you will places these images on a **24" by 36" poster** (PDF, printing optional) with descriptive text where necessary. The goal of this project is to communicate and explain your ideas in the format of an art poster.
 
 You will develop your concept around some environment, structure, object, or experience that you find interesting or problematic, and re-imagine it as a fictional version set in the future. You will imagine it's purpose and how it differs from examples of current day. This fiction can be naturally occurring, manufactured, synthetic, biological, or a mix. Experiment with unexpected colors, materials, proportions, scales, and textures.
 
