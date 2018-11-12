@@ -116,7 +116,7 @@ Project 2
 |   └── [YOURUSERID]-final-submission.zip/
 |       |
 |       ├── [YOURUSERID]-vimeo-link.txt
-|       ├── [YOURUSERID]-statement.txt
+|       ├── [YOURUSERID]-statement.doc
 |       └── [YOURUSERID]-final-submission.mp4
 |
 |
@@ -125,7 +125,7 @@ Project 2
     └── [YOURUSERID]-revision.zip/
         |
         ├── [YOURUSERID]-vimeo-link.txt
-        ├── [YOURUSERID]-statement.txt
+        ├── [YOURUSERID]-statement.doc
         └── [YOURUSERID]-final-submission.mp4
 ```
 
