@@ -42,7 +42,6 @@ David O'Reilly: [Childhood - [Adult Swim]](https://vimeo.com/103551096), [Bomb](
 [Spherikal](https://vimeo.com/39792837)  
 
 
-
 ## Constraints
 
 - Use 3D tools to produce animation
